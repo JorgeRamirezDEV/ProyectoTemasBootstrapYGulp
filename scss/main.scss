@@ -32,10 +32,10 @@ $navbar-dark-toggler-border-color:  rgba($color-nav, .1);
 .nav-link{
     color: $navbar-dark-color;
     &:hover{
-        background-color: rgb(231, 70, 48);
+        background-color: rgb(231, 215, 212);
     }
     &:focus{
-        background-color: rgb(255, 251, 1);
+        background-color: rgb(59, 59, 59);
     }
     &:disabled{
         color: $navbar-dark-disabled-color;
